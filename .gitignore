@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+
+# Ignore .env file (API keys)
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
